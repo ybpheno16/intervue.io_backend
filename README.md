@@ -43,7 +43,7 @@ npm install
 ### 3. Set Environment Variables
 Create a `.env` file (optional):
 ```env
-PORT=3001
+PORT=3000
 ```
 
 ### 4. Run the Server
@@ -51,7 +51,7 @@ PORT=3001
 node index.js
 ```
 
-The server will start on `http://localhost:3001` (or the port you specify).
+The server will start on `http://localhost:3000` (or the port you specify).
 
 ---
 
